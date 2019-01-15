@@ -1,0 +1,75 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.img-size {
+    max-width: 100%;
+    height: auto;
+}   
+
+.card-length {
+    width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+    .img-size {
+        width: 35%;
+        height: auto;
+    }
+
+    .card-length {
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .img-size {
+        width: 25%;
+        height: auto;
+    }
+
+    .card-length {
+        width: 50%;
+    }
+}
+
+html, body {
+    background-color: #efedf0 !important;
+    margin: 0;
+    padding: 0;
+    height: 100% !important;
+}
+
+.left {
+    margin-left: 0.5rem;
+}
+
+.butt {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.butt:focus, .butt:active:focus, .butt.active:focus {
+    outline: 0 none;
+}
+
+.butt-primary {
+    background: #0099cc;
+    color: #ffffff;
+}
+
+.butt-primary:hover, .butt-primary:focus, .butt-primary:active, .butt-primary.active, .open > .dropdown-toggle.butt-primary {
+    background: #33a6cc;
+}
+
+.butt-primary:active, .butt-primary.active {
+    background: #007299;
+    box-shadow: none;
+}
+
+.round {
+    border-radius: 24px !important;
+}

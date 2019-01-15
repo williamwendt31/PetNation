@@ -1,0 +1,89 @@
+.long {
+    width: 100% !important;
+}
+
+.bio {
+    margin-top: 2rem;
+}
+
+.profile-pic {
+    height: 6rem;
+    width: 6rem;
+}
+
+.buttons {
+    text-align: right;
+}
+
+.add {
+    float: right;
+}
+
+.pet-picture {
+    height: 6rem;
+    width: 6rem;
+    margin-right: 2rem;
+}
+
+.pet-info {
+    font-size: 1.25em;
+    margin-top: 1rem;
+}
+
+.list-group {
+    margin-top: 2rem;
+    padding: 0 !important;
+}
+
+.actions {
+    float: right;
+    margin-top: 2rem;
+}
+
+.margin-right {
+    margin-right: 1rem;
+}
+
+.list-group-item {
+    padding: 0 !important;
+}
+
+.purple {
+    color: indigo !important;
+}
+
+.orange {
+    color: orange !important;
+}
+
+.red {
+    color: red !important;
+}
+
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 1;
+    right: 0;
+    width: 3rem;
+    height: 3rem;
+    font-size: 100px;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: inline-block;
+}
+
+.black {
+    color: black !important;
+}
+
+.profile {
+  margin-bottom: 0.5rem;
+}
+
+.cat {
+    margin-top: 2rem;
+}

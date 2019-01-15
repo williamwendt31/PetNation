@@ -1,0 +1,39 @@
+.pet-pic {
+    width: 25rem !important;
+    height: auto;
+}
+
+.imgwrapper {
+    text-align: center !important;
+}
+
+
+.top-info {
+    text-align: center;
+}
+
+.removed {
+    text-align: center;
+}
+
+.padding {
+    padding: 2rem !important;
+}
+
+.pet-name {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.detail {
+    font-size: 1em;
+}
+
+.middle {
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
+.center {
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+.subtitle {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 1.6em;
+}
+
+.sub-content {
+    padding: 2rem;
+    text-align: center;
+}
+
+.icon {
+    height: 5rem;
+    width: 5rem;
+}
+
+.white-back {
+    background-color: white !important;
+}
+
+.main-icons {
+    font-size: 4em !important;
+    display: block;
+}
+
+.category-title {
+    margin: 2rem 0 1rem;
+    font-size: 1.4rem;
+}
+
+.width {
+    width: 100% !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007b5e;
+    border-color: #007b5e;
+}
+
+.frontside .card .card-body img {
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+}
+
+.card {
+    margin: 1rem 0;
+}
+
+.card-text {
+    font-size: 1.2em;
+}
+
+.up {
+    margin-top: 2rem;
+}
